@@ -3,4 +3,4 @@
 h1 {color:blue; margin-left:10px;}
 p {margin-left:10px; color:purple; margin-top: 10px;}
 img {margin-left:10px;}
-.jumbotron {background-image:url(http://placepuppy.it/images/homepage/Golden_Retriever_10weeks.jpg);}
+.jumbotron {background-image:url(http://placepuppy.it/images/homepage/Golden_Retriever_10weeks.jpg); background-repeat: no-repeat;background-size:cover; }
