@@ -1,6 +1,6 @@
 .nav li {display: inline; margin-top: 10px;}
 .footer li {display: inline;}
-h1 {color:blue; margin-left:10px;}
+h1 {color:rgb(237,237,237); margin-left:10px;}
 p {margin-left:10px; color:purple; margin-top: 10px;}
 img {margin-left:10px;}
 .jumbotron {background-image:url(http://placepuppy.it/images/homepage/Golden_Retriever_10weeks.jpg); background-repeat: no-repeat;background-size:cover; }
