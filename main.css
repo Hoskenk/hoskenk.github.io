@@ -1,8 +1,8 @@
-.nav li {display: inline; position: left;}
+.nav li {display: inline;}
 
-.jumbotron p {font-size: 28px; color:rgb(255,255,255);}
+.jumbotron p {font-size: 28px; color:rgb(0,174,222);}
 
-.jumbotron {background-image: url(http://static.guim.co.uk/sys-images/Travel/Pix/pictures/2010/3/11/1268335400986/Away-resort-on-Koh-Kood-T-001.jpg); margin: 10px;}
 
-.jumbotron h2{font-size: 60px; color: rgb(255,255,255); position: left;
+
+.jumbotron h2{font-size: 60px; color: rgb(0,174,222); position: left; margin:;
 }
