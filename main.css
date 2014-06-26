@@ -1,6 +1,6 @@
 .nav li {display: inline; margin-top: 10px;}
 .footer li {display: inline;}
-h1 {color:white; margin-left:10px;}
-p {margin-left:10px; color:purple; margin-top: 10px;}
-img {margin-left:10px;}
-.jumbotron {background-image:url(http://www.whenugo.com/images/photos/destinations/Swiss-Alps-1.jpg); background-repeat: no-repeat;background-size:cover; }
+.jumbotron h1 {color:#fff; margin-left:20px; margin-top:50px;}
+.jumbotron h4 {color:#fff; margin-left:95px; margin-top:5px;}
+p {margin-left:10px; color:black; margin-top: 10px;}
+.jumbotron {background-image:url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfa1/t1.0-9/418737_2723844827879_988575044_n.jpg); background-size:cover; height:500px; }
