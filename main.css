@@ -1,4 +1,5 @@
 .nav li {display: inline; margin-top: 10px;}
 .footer li {display: inline;}
 h1 {color:blue; margin-left:10px;}
-p {margin-left:10px; color:purple;}
+p {margin-left:10px; color:purple; margin-top: 40px;}
+img {margin-left:10px;}
