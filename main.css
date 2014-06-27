@@ -4,3 +4,6 @@
 .jumbotron h4 {color:#fff; margin-left:95px; margin-top:5px;}
 p {margin-left:10px; color:black; margin-top: 10px;}
 .jumbotron {background-image:url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfa1/t1.0-9/418737_2723844827879_988575044_n.jpg); background-size:cover; height:500px; }
+
+.container h1 {color: blue; font-style: Ariel; font-weight: bold;}
+.container p {color: blue; font-style: Ariel;}
