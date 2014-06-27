@@ -1,2 +1,3 @@
-h1 {font-style: Comic Sans; font-weight: bold; margin:10px;}
-p {font-style: Comic Sans;}
+h1 {font-style: Ariel; font-weight: bold; margin:10px; font-color: rgb(0,78,122);}
+p {font-style: Ariel; font-color: rgb(0,36,74);}
+.jumbotron {background-image: url(https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/p417x417/431352_2723845507896_1209975265_n.jpg);}
