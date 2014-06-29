@@ -5,5 +5,5 @@
 p {margin-left:10px; color:black; margin-top: 10px;}
 .jumbotron {background-image:url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfa1/t1.0-9/418737_2723844827879_988575044_n.jpg); background-size:cover; height:500px; }
 
-.container h1 {color: blue; font-style: Arial; font-weight: bold;}
-.container p {color: blue; font-style: Arial;}
+.container h1 {color: blue; font-family: 'Josefin Sans' sans-serif; font-weight: bold;}
+.container p {color: blue; font-family: 'Josefin Sans' sans-serif; font-size: 20px;}
