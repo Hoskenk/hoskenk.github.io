@@ -7,3 +7,4 @@ p {margin-left:10px; color:black; margin-top: 10px;}
 
 .container h1 {color: blue; font-family: 'Josefin Sans' sans-serif; font-weight: bold;}
 .container p {color: blue; font-family: 'Josefin Sans' sans-serif; font-size: 20px;}
+.container {background-color: rgb(223,229,220);}
