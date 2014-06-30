@@ -5,8 +5,8 @@
 p {margin-left:10px; color:black; margin-top: 10px;}
 .jumbotron {background-image:url(Beach.jpg); background-size:cover; height:750px; margin-top: 20px; font-family: 'Rokkitt', serif; }
 
-.container h1 {color: rgb(168,129,255); font-weight: bold; float-left}
-.container p {color: rgb(168,129,255); font-size: 20px; margin: 20px; text-align: center;}
+.container h1 {color: rgb(72,120,178); font-weight: bold; float-left}
+.container p {color: rgb(72,120,178); font-size: 20px; margin: 20px; text-align: center;}
 .container {font-family: 'Rokkitt', serif;}
 .footer ul {margin-left: 00px;}
 .footer ul li {float:left;
