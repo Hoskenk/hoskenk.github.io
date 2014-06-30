@@ -1,10 +1,15 @@
-.nav li {display: inline; margin-top: 10px;}
+.nav ul li {display: inline; padding: 20px;}
 .footer li {display: inline;}
 .jumbotron h1 {color:#fff; margin-left:20px; margin-top:50px;}
 .jumbotron h4 {color:#fff; margin-left:95px; margin-top:5px;}
 p {margin-left:10px; color:black; margin-top: 10px;}
-.jumbotron {background-image:url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfa1/t1.0-9/418737_2723844827879_988575044_n.jpg); background-size:cover; height:500px; }
+.jumbotron {background-image:url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfa1/t1.0-9/418737_2723844827879_988575044_n.jpg); background-size:cover; height:700px; margin-top: 20px; font-family: 'Rokkitt', serif; }
 
-.container h1 {color: rgb(168,129,255); font-family: 'Josefin Sans' sans-serif; font-weight: bold;}
-.container p {color: rgb(168,129,255); font-family: 'Josefin Sans' sans-serif; font-size: 20px; margin: 20px;}
-.container {background-color: rgb(223,229,220);}
+.container h1 {color: rgb(168,129,255); font-weight: bold; float-left}
+.container p {color: rgb(168,129,255); font-size: 20px; margin: 20px; text-align: center;}
+.container {font-family: 'Rokkitt', serif;}
+.footer ul {margin-left: 00px;}
+.footer ul li {float:left;
+	padding-left: 30px;
+	margin:10px;
+	font-size: 15px;}
